@@ -1,4 +1,5 @@
 let light = document.getElementById('circle');
+//click the flash on in order to press as real camera 
 
 document.getElementById('button').addEventListener('click', () => {
   light.classList.remove('flash-animation');
