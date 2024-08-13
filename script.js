@@ -8,6 +8,7 @@ document.getElementById('button').addEventListener('click', () => {
   },500);
 });
 
+// eject photo animation for view the image 
 let eject = document.getElementById('photo');
 
 document.getElementById('button').addEventListener('click', () => {
