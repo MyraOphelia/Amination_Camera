@@ -9,3 +9,8 @@ This project features a vintage camera animation created using HTML, CSS, and Ja
 ### Camera Animations
 ![cameraAnimation](https://github.com/user-attachments/assets/f05e7cfd-8a72-4c2e-b021-a98420405e1f)
 
+### Results
+<p align="center">
+  <img src="./result/result.mov" width=600><br/>
+  <i>Result</i>
+</p>
