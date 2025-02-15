@@ -12,5 +12,5 @@ This project features a vintage camera animation created using HTML, CSS, and Ja
 ### Results
 <p align="center">
   <img src="./result/result.gif" width=600><br/>
-  <i>Result</i>
+  <i></i>
 </p>
